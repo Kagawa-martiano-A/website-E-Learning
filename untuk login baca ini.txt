@@ -1,0 +1,32 @@
+
+LOGIN SEBAGAIN ADMINISTRATOR
+   -------------------------------------
+
+	localhost/E-learning-Berbasis-Web_Kagawa-Martiano-Adam_15312688_IF18FX/administrator
+	
+	ACCOUNT :
+	--------
+	
+	1. username : admin, password: admin
+
+LOGIN SEBAGAI PENGAJAR
+   --------------------------------
+
+	localhost/E-learning-Berbasis-Web_Kagawa-Martiano-Adam_15312688_IF18FX/administrator
+	
+	ACCOUNT : 
+	----------
+
+	1. username : guru1, password: guru1
+
+	2. username : guru2, password: guru2
+
+LOGIN SEBAGAIN SISWA
+   -------------------------
+
+	localhost/E-learning-Berbasis-Web_Kagawa-Martiano-Adam_15312688_IF18FX
+
+	ACCOUNT :
+	----------
+
+	1. username : 15312688, password: 123
